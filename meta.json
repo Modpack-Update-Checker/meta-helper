@@ -280,7 +280,7 @@
   },
   "legacy4j": {
     "fabric": {
-      "1.20.1": "maven.modrinth:legacy4j:tPUgy86a",
+      "1.20.1": "maven.modrinth:legacy4j:vnbxM4hU",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
       "1.20.4": "maven.modrinth:legacy4j:z4nUisid",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
@@ -299,7 +299,7 @@
       "1.21": "maven.modrinth:legacy4j:RD8XgI0Y"
     },
     "quilt": {
-      "1.20.1": "maven.modrinth:legacy4j:tPUgy86a",
+      "1.20.1": "maven.modrinth:legacy4j:vnbxM4hU",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
       "1.20.4": "maven.modrinth:legacy4j:z4nUisid",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
