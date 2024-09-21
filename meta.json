@@ -283,8 +283,8 @@
       "1.20.1": "maven.modrinth:legacy4j:tPUgy86a",
       "1.20.2": "maven.modrinth:legacy4j:7MU7E5ow",
       "1.20.4": "maven.modrinth:legacy4j:YrKxjx3P",
-      "1.20.6": "maven.modrinth:legacy4j:DijCd31u",
-      "1.21": "maven.modrinth:legacy4j:L97Cu39M"
+      "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
+      "1.21": "maven.modrinth:legacy4j:u7kno2DB"
     },
     "forge": {
       "1.20.1": "maven.modrinth:legacy4j:5td3dkBD",
@@ -295,15 +295,15 @@
       "1.20.1": "maven.modrinth:legacy4j:5td3dkBD",
       "1.20.2": "maven.modrinth:legacy4j:XgjndbxE",
       "1.20.4": "maven.modrinth:legacy4j:qqkONnWp",
-      "1.20.6": "maven.modrinth:legacy4j:ToJ50x93",
-      "1.21": "maven.modrinth:legacy4j:fYlGcfZd"
+      "1.20.6": "maven.modrinth:legacy4j:SbCF3eMw",
+      "1.21": "maven.modrinth:legacy4j:RD8XgI0Y"
     },
     "quilt": {
       "1.20.1": "maven.modrinth:legacy4j:tPUgy86a",
       "1.20.2": "maven.modrinth:legacy4j:7MU7E5ow",
       "1.20.4": "maven.modrinth:legacy4j:YrKxjx3P",
-      "1.20.6": "maven.modrinth:legacy4j:DijCd31u",
-      "1.21": "maven.modrinth:legacy4j:L97Cu39M"
+      "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
+      "1.21": "maven.modrinth:legacy4j:u7kno2DB"
     }
   }
 }
