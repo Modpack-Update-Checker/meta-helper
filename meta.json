@@ -144,10 +144,10 @@
       "1.20": "me.shedaniel:RoughlyEnoughItems-fabric:12.1.780",
       "1.20.1": "me.shedaniel:RoughlyEnoughItems-fabric:12.1.780",
       "1.20.2": "me.shedaniel:RoughlyEnoughItems-fabric:13.1.773",
-      "1.20.4": "me.shedaniel:RoughlyEnoughItems-fabric:14.1.774",
+      "1.20.4": "me.shedaniel:RoughlyEnoughItems-fabric:14.1.781",
       "1.20.5": "me.shedaniel:RoughlyEnoughItems-fabric:15.0.743",
-      "1.20.6": "me.shedaniel:RoughlyEnoughItems-fabric:15.0.775",
-      "1.21": "me.shedaniel:RoughlyEnoughItems-fabric:16.0.777"
+      "1.20.6": "me.shedaniel:RoughlyEnoughItems-fabric:15.0.782",
+      "1.21": "me.shedaniel:RoughlyEnoughItems-fabric:16.0.783"
     },
     "forge": {
       "1.16.5": "me.shedaniel:RoughlyEnoughItems-forge:6.5.433",
@@ -158,14 +158,14 @@
       "1.20": "me.shedaniel:RoughlyEnoughItems-forge:12.1.780",
       "1.20.1": "me.shedaniel:RoughlyEnoughItems-forge:12.1.780",
       "1.20.2": "me.shedaniel:RoughlyEnoughItems-forge:13.1.773",
-      "1.20.4": "me.shedaniel:RoughlyEnoughItems-forge:14.1.774"
+      "1.20.4": "me.shedaniel:RoughlyEnoughItems-forge:14.1.781"
     },
     "neoforge": {
       "1.20.2": "me.shedaniel:RoughlyEnoughItems-neoforge:13.1.773",
-      "1.20.4": "me.shedaniel:RoughlyEnoughItems-neoforge:14.1.774",
+      "1.20.4": "me.shedaniel:RoughlyEnoughItems-neoforge:14.1.781",
       "1.20.5": "me.shedaniel:RoughlyEnoughItems-neoforge:15.0.743",
-      "1.20.6": "me.shedaniel:RoughlyEnoughItems-neoforge:15.0.775",
-      "1.21": "me.shedaniel:RoughlyEnoughItems-neoforge:16.0.777"
+      "1.20.6": "me.shedaniel:RoughlyEnoughItems-neoforge:15.0.782",
+      "1.21": "me.shedaniel:RoughlyEnoughItems-neoforge:16.0.783"
     }
   },
   "cloth-config": {
