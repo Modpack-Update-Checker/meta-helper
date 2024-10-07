@@ -82,11 +82,11 @@
       "1.19.3": "net.minecraftforge:forge:1.19.3-44.1.23",
       "1.19.4": "net.minecraftforge:forge:1.19.4-45.3.7",
       "1.20": "net.minecraftforge:forge:1.20-46.0.14",
-      "1.20.1": "net.minecraftforge:forge:1.20.1-47.3.10",
+      "1.20.1": "net.minecraftforge:forge:1.20.1-47.3.11",
       "1.20.2": "net.minecraftforge:forge:1.20.2-48.1.0",
       "1.20.3": "net.minecraftforge:forge:1.20.3-49.0.2",
-      "1.20.4": "net.minecraftforge:forge:1.20.4-49.1.10",
-      "1.20.6": "net.minecraftforge:forge:1.20.6-50.1.19",
+      "1.20.4": "net.minecraftforge:forge:1.20.4-49.1.12",
+      "1.20.6": "net.minecraftforge:forge:1.20.6-50.1.20",
       "1.21": "net.minecraftforge:forge:1.21-51.0.33"
     }
   },
