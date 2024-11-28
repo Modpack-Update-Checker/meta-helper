@@ -110,9 +110,9 @@
       "1.20.5": "net.neoforged:neoforge:20.5.21-beta",
       "1.20.6": "net.neoforged:neoforge:20.6.121",
       "1.21": "net.neoforged:neoforge:21.0.167",
-      "1.21.1": "net.neoforged:neoforge:21.1.82",
+      "1.21.1": "net.neoforged:neoforge:21.1.83",
       "1.21.2": "net.neoforged:neoforge:21.2.1-beta",
-      "1.21.3": "net.neoforged:neoforge:21.3.48-beta"
+      "1.21.3": "net.neoforged:neoforge:21.3.49-beta"
     }
   },
   "architectury-api": {
