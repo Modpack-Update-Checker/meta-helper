@@ -320,11 +320,11 @@
   },
   "legacy4j": {
     "fabric": {
-      "1.20": "maven.modrinth:legacy4j:PNOuEXpQ",
-      "1.20.1": "maven.modrinth:legacy4j:PNOuEXpQ",
+      "1.20": "maven.modrinth:legacy4j:Jab3xHan",
+      "1.20.1": "maven.modrinth:legacy4j:Jab3xHan",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
-      "1.20.3": "maven.modrinth:legacy4j:SyXXntU8",
-      "1.20.4": "maven.modrinth:legacy4j:SyXXntU8",
+      "1.20.3": "maven.modrinth:legacy4j:ikzbW2g6",
+      "1.20.4": "maven.modrinth:legacy4j:ikzbW2g6",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
       "1.21": "maven.modrinth:legacy4j:jk8dZxMH",
       "1.21.1": "maven.modrinth:legacy4j:jk8dZxMH",
@@ -332,11 +332,11 @@
       "1.21.3": "maven.modrinth:legacy4j:7CdK0fAS"
     },
     "forge": {
-      "1.20": "maven.modrinth:legacy4j:OFvKoOBV",
-      "1.20.1": "maven.modrinth:legacy4j:OFvKoOBV",
+      "1.20": "maven.modrinth:legacy4j:OOpCDdyH",
+      "1.20.1": "maven.modrinth:legacy4j:OOpCDdyH",
       "1.20.2": "maven.modrinth:legacy4j:XWIYcJ6C",
-      "1.20.3": "maven.modrinth:legacy4j:E69pTVuC",
-      "1.20.4": "maven.modrinth:legacy4j:E69pTVuC",
+      "1.20.3": "maven.modrinth:legacy4j:YQgEqd1E",
+      "1.20.4": "maven.modrinth:legacy4j:YQgEqd1E",
       "1.20.6": "maven.modrinth:legacy4j:Tl0KSuc3",
       "1.21": "maven.modrinth:legacy4j:w9LDXCKW",
       "1.21.1": "maven.modrinth:legacy4j:w9LDXCKW",
@@ -345,8 +345,8 @@
     "neoforge": {
       "1.20.1": "maven.modrinth:legacy4j:Hv5a2kab",
       "1.20.2": "maven.modrinth:legacy4j:ukG6RtkG",
-      "1.20.3": "maven.modrinth:legacy4j:I3GB8Kbu",
-      "1.20.4": "maven.modrinth:legacy4j:I3GB8Kbu",
+      "1.20.3": "maven.modrinth:legacy4j:ERi1yTq6",
+      "1.20.4": "maven.modrinth:legacy4j:ERi1yTq6",
       "1.20.6": "maven.modrinth:legacy4j:SbCF3eMw",
       "1.21": "maven.modrinth:legacy4j:x5YwWhv4",
       "1.21.1": "maven.modrinth:legacy4j:x5YwWhv4",
@@ -354,11 +354,11 @@
       "1.21.3": "maven.modrinth:legacy4j:3gym08Xv"
     },
     "quilt": {
-      "1.20": "maven.modrinth:legacy4j:PNOuEXpQ",
-      "1.20.1": "maven.modrinth:legacy4j:PNOuEXpQ",
+      "1.20": "maven.modrinth:legacy4j:Jab3xHan",
+      "1.20.1": "maven.modrinth:legacy4j:Jab3xHan",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
-      "1.20.3": "maven.modrinth:legacy4j:SyXXntU8",
-      "1.20.4": "maven.modrinth:legacy4j:SyXXntU8",
+      "1.20.3": "maven.modrinth:legacy4j:ikzbW2g6",
+      "1.20.4": "maven.modrinth:legacy4j:ikzbW2g6",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
       "1.21": "maven.modrinth:legacy4j:jk8dZxMH",
       "1.21.1": "maven.modrinth:legacy4j:jk8dZxMH",
