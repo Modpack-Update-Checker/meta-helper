@@ -87,10 +87,10 @@
   "forge": {
     "forge": {
       "1.16.5": "net.minecraftforge:forge:1.16.5-36.2.42",
-      "1.18.2": "net.minecraftforge:forge:1.18.2-40.3.3",
-      "1.19.2": "net.minecraftforge:forge:1.19.2-43.4.16",
+      "1.18.2": "net.minecraftforge:forge:1.18.2-40.3.6",
+      "1.19.2": "net.minecraftforge:forge:1.19.2-43.4.20",
       "1.19.3": "net.minecraftforge:forge:1.19.3-44.1.23",
-      "1.19.4": "net.minecraftforge:forge:1.19.4-45.3.23",
+      "1.19.4": "net.minecraftforge:forge:1.19.4-45.3.24",
       "1.20": "net.minecraftforge:forge:1.20-46.0.14",
       "1.20.1": "net.minecraftforge:forge:1.20.1-47.3.32",
       "1.20.2": "net.minecraftforge:forge:1.20.2-48.1.0",
@@ -110,7 +110,7 @@
       "1.20.5": "net.neoforged:neoforge:20.5.21-beta",
       "1.20.6": "net.neoforged:neoforge:20.6.125",
       "1.21": "net.neoforged:neoforge:21.0.167",
-      "1.21.1": "net.neoforged:neoforge:21.1.120",
+      "1.21.1": "net.neoforged:neoforge:21.1.121",
       "1.21.2": "net.neoforged:neoforge:21.2.1-beta",
       "1.21.3": "net.neoforged:neoforge:21.3.63"
     }
