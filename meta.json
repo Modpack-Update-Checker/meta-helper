@@ -324,51 +324,51 @@
   },
   "legacy4j": {
     "fabric": {
-      "1.20": "maven.modrinth:legacy4j:GIMZEtfg",
-      "1.20.1": "maven.modrinth:legacy4j:GIMZEtfg",
+      "1.20": "maven.modrinth:legacy4j:JE5SWtDc",
+      "1.20.1": "maven.modrinth:legacy4j:JE5SWtDc",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
-      "1.20.3": "maven.modrinth:legacy4j:EckPpEX2",
-      "1.20.4": "maven.modrinth:legacy4j:EckPpEX2",
+      "1.20.3": "maven.modrinth:legacy4j:UUnPH1jj",
+      "1.20.4": "maven.modrinth:legacy4j:UUnPH1jj",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
-      "1.21": "maven.modrinth:legacy4j:MgJhjNoT",
-      "1.21.1": "maven.modrinth:legacy4j:MgJhjNoT",
-      "1.21.2": "maven.modrinth:legacy4j:RPxcCG1G",
-      "1.21.3": "maven.modrinth:legacy4j:RPxcCG1G"
+      "1.21": "maven.modrinth:legacy4j:LfByi1Cl",
+      "1.21.1": "maven.modrinth:legacy4j:LfByi1Cl",
+      "1.21.2": "maven.modrinth:legacy4j:EqTlsr7Z",
+      "1.21.3": "maven.modrinth:legacy4j:EqTlsr7Z"
     },
     "forge": {
-      "1.20": "maven.modrinth:legacy4j:yi9Vipes",
-      "1.20.1": "maven.modrinth:legacy4j:yi9Vipes",
+      "1.20": "maven.modrinth:legacy4j:rw76nYT7",
+      "1.20.1": "maven.modrinth:legacy4j:rw76nYT7",
       "1.20.2": "maven.modrinth:legacy4j:XWIYcJ6C",
-      "1.20.3": "maven.modrinth:legacy4j:1cf4S2Rs",
-      "1.20.4": "maven.modrinth:legacy4j:1cf4S2Rs",
+      "1.20.3": "maven.modrinth:legacy4j:Co678m66",
+      "1.20.4": "maven.modrinth:legacy4j:Co678m66",
       "1.20.6": "maven.modrinth:legacy4j:Tl0KSuc3",
-      "1.21": "maven.modrinth:legacy4j:Vsf7shkq",
-      "1.21.1": "maven.modrinth:legacy4j:Vsf7shkq",
-      "1.21.3": "maven.modrinth:legacy4j:4ZPiGeqZ"
+      "1.21": "maven.modrinth:legacy4j:1YbBTLJU",
+      "1.21.1": "maven.modrinth:legacy4j:1YbBTLJU",
+      "1.21.3": "maven.modrinth:legacy4j:kkbuxbvV"
     },
     "neoforge": {
-      "1.20": "maven.modrinth:legacy4j:yi9Vipes",
-      "1.20.1": "maven.modrinth:legacy4j:yi9Vipes",
+      "1.20": "maven.modrinth:legacy4j:rw76nYT7",
+      "1.20.1": "maven.modrinth:legacy4j:rw76nYT7",
       "1.20.2": "maven.modrinth:legacy4j:ukG6RtkG",
-      "1.20.3": "maven.modrinth:legacy4j:zDgmCsBe",
-      "1.20.4": "maven.modrinth:legacy4j:zDgmCsBe",
+      "1.20.3": "maven.modrinth:legacy4j:oIk4tzZk",
+      "1.20.4": "maven.modrinth:legacy4j:oIk4tzZk",
       "1.20.6": "maven.modrinth:legacy4j:SbCF3eMw",
-      "1.21": "maven.modrinth:legacy4j:S4IqfsP4",
-      "1.21.1": "maven.modrinth:legacy4j:S4IqfsP4",
-      "1.21.2": "maven.modrinth:legacy4j:Tw48VmQB",
-      "1.21.3": "maven.modrinth:legacy4j:Tw48VmQB"
+      "1.21": "maven.modrinth:legacy4j:dk2WV9IH",
+      "1.21.1": "maven.modrinth:legacy4j:dk2WV9IH",
+      "1.21.2": "maven.modrinth:legacy4j:mw5lNKHe",
+      "1.21.3": "maven.modrinth:legacy4j:mw5lNKHe"
     },
     "quilt": {
-      "1.20": "maven.modrinth:legacy4j:GIMZEtfg",
-      "1.20.1": "maven.modrinth:legacy4j:GIMZEtfg",
+      "1.20": "maven.modrinth:legacy4j:JE5SWtDc",
+      "1.20.1": "maven.modrinth:legacy4j:JE5SWtDc",
       "1.20.2": "maven.modrinth:legacy4j:g5k8HxhV",
-      "1.20.3": "maven.modrinth:legacy4j:EckPpEX2",
-      "1.20.4": "maven.modrinth:legacy4j:EckPpEX2",
+      "1.20.3": "maven.modrinth:legacy4j:UUnPH1jj",
+      "1.20.4": "maven.modrinth:legacy4j:UUnPH1jj",
       "1.20.6": "maven.modrinth:legacy4j:pYNzEFBA",
-      "1.21": "maven.modrinth:legacy4j:MgJhjNoT",
-      "1.21.1": "maven.modrinth:legacy4j:MgJhjNoT",
-      "1.21.2": "maven.modrinth:legacy4j:RPxcCG1G",
-      "1.21.3": "maven.modrinth:legacy4j:RPxcCG1G"
+      "1.21": "maven.modrinth:legacy4j:LfByi1Cl",
+      "1.21.1": "maven.modrinth:legacy4j:LfByi1Cl",
+      "1.21.2": "maven.modrinth:legacy4j:EqTlsr7Z",
+      "1.21.3": "maven.modrinth:legacy4j:EqTlsr7Z"
     }
   }
 }
